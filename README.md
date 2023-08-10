@@ -1,3 +1,3 @@
 # Password Generator
 
-Bem-vindo(a) ao gerador de senha
+Projeto realizado em JavaScript, Html e CSS
